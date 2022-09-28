@@ -1,0 +1,40 @@
+.div-proyectos{
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    max-height: 951px;
+    overflow: scroll;
+}
+
+.div-proyecto{
+    display: flex;
+    border-bottom: 1px black solid;
+    padding: 2em 0;
+}
+.div-img{
+    max-width: 170px;
+    min-width: 170px;
+    max-height: 170px;
+    min-height: 170px;
+}
+.div-img img{
+    box-shadow: #e7e7e7 1px 1px 3px 1px;
+    padding: 5px;
+    border-radius: 12px;
+
+}
+.div-proyecto div img{
+    border-radius: 12px;
+}
+
+@media (max-width:1400px) {
+    .div-proyectos{
+        max-height: 903px;
+    }
+}
+
+@media (max-width:1200px) {
+    .div-proyectos{
+        max-height: 1030px;
+    }
+}

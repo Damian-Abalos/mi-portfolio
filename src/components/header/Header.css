@@ -1,0 +1,25 @@
+.div-header {
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+    justify-content: flex-start;
+
+    background: #ffffff;
+    border-radius: 12px;
+
+}
+
+#mi-foto {
+    width: 200px;
+    border-radius: 12px;
+}
+
+.descripcion{
+    width: 90%;
+}
+
+/* @media (max-width:990px) {
+    #mi-foto {
+        width: 200px;
+    }
+} */

@@ -1,0 +1,31 @@
+.div-habilidades{
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+
+}
+.progress{
+    width: 70%;
+
+}
+/* .progress-bar{
+    animation-duration: 3s;
+    animation-name: slidein;
+} */
+.ul-habilidades li{  
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    align-items: center;
+}
+
+  
+  /* @keyframes slidein {
+    from {
+      width: 0%
+    }
+  
+    to {
+      width: 90%;
+    }
+  } */
