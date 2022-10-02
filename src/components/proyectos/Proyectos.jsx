@@ -31,7 +31,7 @@ const Proyectos = () => {
                 urlGithub={"https://github.com/Damian-Abalos/casa-vegana"}
             />
             <Proyect
-                titulo={"Sova Main"}
+                titulo={"App e-commerce con API RESTful con registro y login"}
                 urlImage={"https://studio.cults3d.com/kDtl4EH5BqPy-cImyiRyo2gGzXA=/246x246/https://files.cults3d.com/uploaders/14684840/illustration-file/388d5e1a-7c44-4172-a0c9-0a34c088be8c/sova-avatar.jpg"}
                 descripcion={"Trabajo final para el curso de desarrollo web - coderhouse"}
                 etiquetas={"#html #css #responsive"}

@@ -26,7 +26,10 @@
 .div-proyecto div img{
     border-radius: 12px;
 }
-
+.info-proyect{
+    margin-left: 1.5rem;
+    max-width: 500px;
+}
 @media (max-width:1400px) {
     .div-proyectos{
         max-height: 903px;
@@ -37,4 +40,26 @@
     .div-proyectos{
         max-height: 1030px;
     }
+}
+
+@media (max-width:500px) {
+    .div-proyectos{
+        padding-left: 1.5rem;
+    }
+    .div-proyecto{
+        flex-wrap: wrap;
+        max-width: 250px;
+
+    }
+    .div-img{
+        /* margin: auto; */
+    }
+    .info-proyect{
+        margin-left: 0;
+        /* margin:auto; */
+    }
+    h2{
+        margin-left: 0px;
+    }
+    
 }

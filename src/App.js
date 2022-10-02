@@ -12,6 +12,9 @@ function App() {
         <div className="col-xl-12 p-1" >
           <Header />
         </div>
+        <div className="col-xl-8 p-1" >
+          <Proyectos />
+        </div>
         <div className="col-xl-4 row my-0 mx-auto p-0 align-content-between">
           <div className="col-xl-12 col-lg-5 p-1">
             <Habilidades />
@@ -19,9 +22,6 @@ function App() {
           <div className="col-xl-12 col-lg-7 p-1 my-0 mx-auto d-flex">
             <Experiencia />
           </div>
-        </div>
-        <div className="col-xl-8 p-1" >
-          <Proyectos />
         </div>
         <div className="col-xl-12 p-1" >
           <Hobbies />
