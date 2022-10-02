@@ -38,7 +38,7 @@
 
 @media (max-width:1200px) {
     .div-proyectos{
-        max-height: 1030px;
+        max-height: max-content;
     }
 }
 
