@@ -11,23 +11,23 @@ const Habilidades = () => {
         <ul className='list-unstyled ul-habilidades'>
           <li>
             CSS
-            <ProgressBar width='90'/>
+            <ProgressBar width='90' />
           </li>
           <li>
             Sass
-            <ProgressBar width='85'/>
+            <ProgressBar width='85' />
           </li>
           <li>
             React-js
-            <ProgressBar width='80'/>
+            <ProgressBar width='80' />
           </li>
           <li>
             Bootstrap
-            <ProgressBar width='95'/>
+            <ProgressBar width='95' />
           </li>
           <li>
             Javascript
-            <ProgressBar width='90'/>
+            <ProgressBar width='90' />
           </li>
         </ul>
       </div>
@@ -36,33 +36,23 @@ const Habilidades = () => {
         <ul className='list-unstyled ul-habilidades'>
           <li>
             Node-js
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style={{ width: "90%" }} aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">90%</div>
-            </div>
+            <ProgressBar width='90' />
           </li>
           <li>
             Express-js
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style={{ width: "90%" }} aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">90%</div>
-            </div>
+            <ProgressBar width='85' />
           </li>
           <li>
             Mongo-DB
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style={{ width: "90%" }} aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">90%</div>
-            </div>
+            <ProgressBar width='90' />
           </li>
           <li>
             Firebase
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style={{ width: "90%" }} aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">90%</div>
-            </div>
+            <ProgressBar width='95' />
           </li>
           <li>
             MySql
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style={{ width: "90%" }} aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">90%</div>
-            </div>
+            <ProgressBar width='90' />
           </li>
         </ul>
       </div>
@@ -71,15 +61,11 @@ const Habilidades = () => {
         <ul className='list-unstyled ul-habilidades'>
           <li>
             Github
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style={{ width: "90%" }} aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">90%</div>
-            </div>
+            <ProgressBar width='80' />
           </li>
           <li>
             Arduino
-            <div class="progress">
-              <div class="progress-bar" role="progressbar" style={{ width: "90%" }} aria-valuenow="35" aria-valuemin="0" aria-valuemax="100">90%</div>
-            </div>
+            <ProgressBar width='65' />
           </li>
         </ul>
       </div>
