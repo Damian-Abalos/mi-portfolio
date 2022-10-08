@@ -8,7 +8,7 @@ const Proyectos = () => {
             <h2>Proyectos</h2>
             <Proyect
                 titulo={"Sova Main"}
-                urlImage={"https://studio.cults3d.com/kDtl4EH5BqPy-cImyiRyo2gGzXA=/246x246/https://files.cults3d.com/uploaders/14684840/illustration-file/388d5e1a-7c44-4172-a0c9-0a34c088be8c/sova-avatar.jpg"}
+                urlImage={"https://i.ibb.co/Vt8j7J6/sova-avatar.jpg"}
                 descripcion={"Sitio web responsive - Entrega final para curso de desarrollo web - coderhouse"}
                 etiquetas={"#html #css #responsive"}
                 urlSite={"https://damian-abalos.github.io/mi-repositorio/"}
