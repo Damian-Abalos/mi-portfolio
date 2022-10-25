@@ -9,7 +9,8 @@
 
 }
 .h2{
-    text-decoration: underline;
+    font-size: 1.7rem!important;
+    font-weight: 350!important;
 }
 #mi-foto {
     width: 200px;

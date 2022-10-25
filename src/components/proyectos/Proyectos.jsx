@@ -11,8 +11,8 @@ const Proyectos = () => {
                 urlImage={"https://elrincondenetflix.com/wp-content/uploads/2020/04/nuevo-logo-netflix_original.jpg"}
                 descripcion={"Netflix clon - App hecha con react-js. Inicio de sesión y lista de favoritos con firebase. Consumiendo la api TMDB para importar las peliculas y el framework Tailwind para los estilos"}
                 etiquetas={"#html #responsive #Firebase #react-js"}
-                urlSite={"https://damian-abalos.github.io/mi-repositorio/"}
-                urlGithub={"https://github.com/Damian-Abalos/mi-repositorio"}
+                urlSite={"https://netflix-clone-7541a.web.app/"}
+                urlGithub={"https://github.com/Damian-Abalos/netfilx-clone"}
             />
             <Proyect
                 titulo={"Tienda online"}
