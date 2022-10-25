@@ -36,7 +36,7 @@ const Proyectos = () => {
                 descripcion={"Sitio web responsive - Entrega final para curso de desarrollo web - coderhouse"}
                 etiquetas={"#html #css #responsive"}
                 urlSite={"https://damian-abalos.github.io/mi-repositorio/"}
-                urlGithub={"https://github.com/Damian-Abalos/dicofra-identitades"}
+                urlGithub={"https://github.com/Damian-Abalos/mi-repositorio"}
             />
             <Proyect
                 titulo={"Ecommerce Casa Vegana - Js"}
