@@ -6,4 +6,11 @@
     margin: auto;
 }
 
+::-webkit-scrollbar{
+    width: 5px;
+}
 
+::-webkit-scrollbar-thumb{
+    background-color: rgb(82, 78, 78);
+    border-radius: 15px;
+}
