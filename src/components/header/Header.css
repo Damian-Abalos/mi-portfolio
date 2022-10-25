@@ -8,10 +8,13 @@
     border-radius: 12px;
 
 }
-
+.h2{
+    text-decoration: underline;
+}
 #mi-foto {
     width: 200px;
     border-radius: 12px;
+    box-shadow: #727272 1px 1px 3px 1px;
 }
 
 .descripcion{

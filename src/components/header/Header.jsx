@@ -14,7 +14,7 @@ const Header = () => {
                 <div className='d-flex justify-content-between w-100 m-0 row'>
                     <div className='col-xl-8 p-0'>
                         <h1>Damian Abalos</h1>
-                        <h2>Full-Stack Developer</h2>
+                        <h2 className='h2'>Full-Stack Developer</h2>
                     </div>
                     <div className='col-xl-4 py-2 px-0'>
                         <p className='d-flex'><span class="material-symbols-outlined pe-1">mail</span>damianabalos@hotmail.com</p>
@@ -22,11 +22,11 @@ const Header = () => {
                     </div>
                 </div>
                 {/* descripcion */}
-                <div className='descripcion'>
+                {/* <div className='descripcion'>
                     <p>Hola soy Damian Abalos, desarrollador web especializado en React-JS. <br />
                         Tengo ganas de poner en practica mis habilidades y de seguir aprendiendo. <br />
                         Si buscas un fullstack developer podes enviarme un mensaje! </p>
-                </div>
+                </div> */}
             </div>
         </div>
     )
