@@ -24,7 +24,7 @@ const Header = () => {
                 {/* descripcion */}
                 <div className='descripcion'>
                     <p>Hola soy Damian Abalos, desarrollador web especializado en React-JS. <br />
-                        Tengo ganas de poner en practica mis habilidades y de seguir aprendiendo <br />
+                        Tengo ganas de poner en practica mis habilidades y de seguir aprendiendo. <br />
                         Si buscas un fullstack developer podes enviarme un mensaje! </p>
                 </div>
             </div>
