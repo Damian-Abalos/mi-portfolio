@@ -15,14 +15,6 @@ const Proyectos = () => {
                 urlGithub={"https://github.com/Damian-Abalos/netfilx-clone"}
             />
             <Proyect
-                titulo={"Tienda online"}
-                urlImage={"https://www.gqdalya.com/wp-content/uploads/2019/06/tiendaonline-3.png"}
-                descripcion={"Api RESTful con servidor express-js, patron de diseño MVC. Registro e inicio de sesion utilizando Passport. MongoDB para almacenar usuarios, productos, mensajes, carritos y compras. Manejo de mensajes automaticos utilizando nodmailer y twilio. Trabajo final para el curso de programacion backend - coderhouse. "}
-                etiquetas={"#MongoDB #Express-js #Passport #Bcrypt #Websocket #Nodemailer #Handlebars"}
-                urlSite={"https://final-backend-abalos.herokuapp.com/"}
-                urlGithub={"https://github.com/Damian-Abalos/proyecto-final-coderHouse"}
-            />
-            <Proyect
                 titulo={"Dicofra Identidades"}
                 urlImage={"https://dicofra.com/wp-content/themes/dicofra/images/logo.svg"}
                 descripcion={"Trabajo freelance para la empresa de ciberseguridad Dicofra"}
