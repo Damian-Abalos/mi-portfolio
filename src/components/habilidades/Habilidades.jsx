@@ -19,7 +19,7 @@ const Habilidades = () => {
           </li>
           <li>
             React-js
-            <ProgressBar width='80' />
+            <ProgressBar width='90' />
           </li>
           <li>
             Bootstrap
