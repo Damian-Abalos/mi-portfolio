@@ -22,7 +22,7 @@ const Habilidades = () => {
             <ProgressBar width='90' />
           </li>
           <li>
-            vue
+            Vue
             <ProgressBar width='50' />
           </li>
           <li>
