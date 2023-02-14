@@ -23,9 +23,6 @@ function App() {
             <Experiencia />
           </div>
         </div>
-        <div className="col-xl-12 p-1 mb-4" >
-          <Hobbies />
-        </div>
       </div>
     </div>
   );
