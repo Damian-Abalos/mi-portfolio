@@ -17,8 +17,8 @@ const Proyect = (props) => {
                     {/* <p>Trabajo final para el curso de desarrollo web - coderhouse</p> */}
                     <p>{props.descripcion}</p>
                     <div>
-                        <a href={props.urlSite} className='btn btn-primary'>Ir al sitio</a>
-                        <a href={props.urlGithub} className='btn btn-danger ms-1'>Rep Github</a>
+                        <a href={props.urlSite} className='btn btn-primary' target="_blank" rel="noreferrer" >Ir al sitio</a>
+                        <a href={props.urlGithub} className='btn btn-danger ms-1' target="_blank" rel="noreferrer" >Rep Github</a>
                     </div>
                 </div>
             </div>
