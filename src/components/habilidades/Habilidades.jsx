@@ -68,7 +68,7 @@ const Habilidades = () => {
         <h3>Otros</h3>
         <ul className='list-unstyled ul-habilidades'>
           <li>
-            Github <ProgressBar width='80' />
+            Git <ProgressBar width='80' />
           </li>
           <li>
             Ilustrator
