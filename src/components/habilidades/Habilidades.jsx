@@ -71,6 +71,14 @@ const Habilidades = () => {
             Github <ProgressBar width='80' />
           </li>
           <li>
+            Ilustrator
+            <ProgressBar width='70' />
+          </li>
+          <li>
+            Photoshop
+            <ProgressBar width='75' />
+          </li>
+          <li>
             Arduino
             <ProgressBar width='65' />
           </li>
