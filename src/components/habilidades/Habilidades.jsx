@@ -22,6 +22,10 @@ const Habilidades = () => {
             <ProgressBar width='90' />
           </li>
           <li>
+            vue
+            <ProgressBar width='50' />
+          </li>
+          <li>
             Bootstrap
             <ProgressBar width='95' />
           </li>
@@ -37,6 +41,10 @@ const Habilidades = () => {
           <li>
             Node-js
             <ProgressBar width='90' />
+          </li>
+          <li>
+            PHP
+            <ProgressBar width='50' />
           </li>
           <li>
             Express-js
