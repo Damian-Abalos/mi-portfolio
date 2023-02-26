@@ -17,7 +17,7 @@ const Header = () => {
                         <h2 className='h2'>Full-Stack Developer</h2>
                     </div>
                     <div className='col-xl-4 py-2 px-0'>
-                        <p className='d-flex'><span class="material-symbols-outlined pe-1">mail</span>damianabalos@hotmail.com</p>
+                        <p className='d-flex'><span class="material-symbols-outlined pe-1">mail</span>damianabalos94@gmail.com</p>
                         <p className='d-flex'><span class="material-symbols-outlined pe-1">call</span>(+54) 1133710828</p>
                     </div>
                 </div>
