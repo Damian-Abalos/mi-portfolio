@@ -16,10 +16,10 @@ function App() {
           <Proyectos />
         </div>
         <div className="col-xl-4 row my-0 mx-auto p-0 align-content-between">
-          <div className="col-xl-12 col-lg-5 col-md-12 col-sm-12 p-1">
+          <div className="col-12 p-1">
             <Habilidades />
           </div>
-          <div className="col-xl-12 col-lg-7  col-md-12 col-sm-12 p-1 my-0 mx-auto d-flex">
+          <div className="col-12 p-1 my-0 mx-auto d-flex">
             <Experiencia />
           </div>
         </div>
